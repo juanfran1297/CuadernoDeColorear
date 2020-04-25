@@ -1,0 +1,961 @@
+fileFormatVersion: 2
+guid: 53d830098c7c3a24abb317610e2ccf4a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2813110257503163831
+    second: Drilo Cruzado_0
+  - first:
+      213: -7837583756436763966
+    second: Drilo Cruzado_1
+  - first:
+      213: -2025047660889913651
+    second: Drilo Cruzado_2
+  - first:
+      213: -3555378135134650951
+    second: Drilo Cruzado_3
+  - first:
+      213: 5324063034995083639
+    second: Drilo Cruzado_Zapato
+  - first:
+      213: 2476837964817304229
+    second: Drilo Cruzado_5
+  - first:
+      213: -3627943903597628792
+    second: Drilo Cruzado_6
+  - first:
+      213: -2610479166031080004
+    second: Drilo Cruzado_7
+  - first:
+      213: -9044536528949700150
+    second: Drilo Cruzado_8
+  - first:
+      213: 271058738653889800
+    second: Drilo Cruzado_9
+  - first:
+      213: 847717801248417322
+    second: Drilo Cruzado_10
+  - first:
+      213: -8143515906984568691
+    second: Drilo Cruzado_11
+  - first:
+      213: -8736370505155300237
+    second: Drilo Cruzado_12
+  - first:
+      213: -7285106100106166946
+    second: Drilo Cruzado_13
+  - first:
+      213: 8590558304219343610
+    second: Drilo Cruzado_14
+  - first:
+      213: 8320835277475086674
+    second: Drilo Cruzado_15
+  - first:
+      213: 5803770751952778420
+    second: Drilo Cruzado_16
+  - first:
+      213: 2153078758423643982
+    second: Drilo Cruzado_17
+  - first:
+      213: 8978969133287497155
+    second: Drilo Cruzado_18
+  - first:
+      213: -6525958377363792479
+    second: Drilo Cruzado_19
+  - first:
+      213: 387024178809866621
+    second: Drilo Cruzado_20
+  - first:
+      213: 7304367587396309324
+    second: Drilo Cruzado_21
+  - first:
+      213: -3843203984801231601
+    second: Drilo Cruzado_22
+  - first:
+      213: -316336311005720074
+    second: Drilo Cruzado_23
+  - first:
+      213: -8574445145589825674
+    second: Drilo Cruzado_24
+  - first:
+      213: -8062164461884301705
+    second: Drilo Cruzado_25
+  - first:
+      213: 38364884881701519
+    second: Drilo Cruzado_26
+  - first:
+      213: -2765638905837639013
+    second: Drilo Cruzado_27
+  - first:
+      213: 818731842410299254
+    second: Drilo Cruzado_28
+  - first:
+      213: -7972228457821877315
+    second: Drilo Cruzado_29
+  - first:
+      213: -6025825182880352667
+    second: Drilo Cruzado_30
+  - first:
+      213: 6544760014114817902
+    second: Drilo Cruzado_31
+  - first:
+      213: 2869550054977054817
+    second: Drilo Cruzado_32
+  - first:
+      213: 3204044941223996675
+    second: Drilo Cruzado_33
+  - first:
+      213: 1338024449398392427
+    second: Drilo Cruzado_34
+  - first:
+      213: 3330657291602818464
+    second: Drilo Cruzado_35
+  - first:
+      213: -8575932086609695737
+    second: Drilo Cruzado_36
+  - first:
+      213: 9137549923671657338
+    second: Drilo Cruzado_37
+  - first:
+      213: -1077893354716334926
+    second: Drilo Cruzado_38
+  - first:
+      213: 8398369053618345617
+    second: Drilo Cruzado_39
+  - first:
+      213: -5811952031648284749
+    second: Drilo Cruzado_40
+  - first:
+      213: -1764528385785759538
+    second: Drilo Cruzado_41
+  - first:
+      213: 6366102365334492947
+    second: Drilo Cruzado_42
+  - first:
+      213: 7203980263176072667
+    second: Drilo Cruzado_43
+  - first:
+      213: -2623644351275580122
+    second: Drilo Cruzado_44
+  - first:
+      213: 8414845204553886432
+    second: Drilo Cruzado_45
+  - first:
+      213: 6435817970963158935
+    second: Drilo Cruzado_46
+  - first:
+      213: 8269441379969216539
+    second: Drilo Cruzado_47
+  - first:
+      213: 887231760826823320
+    second: Drilo Cruzado_48
+  - first:
+      213: -3347734533515740932
+    second: Drilo Cruzado_49
+  - first:
+      213: -1625852404287394827
+    second: Drilo Cruzado_50
+  - first:
+      213: -8554059479138187909
+    second: Drilo Cruzado_51
+  - first:
+      213: -3462296603467635934
+    second: Drilo Cruzado_52
+  - first:
+      213: 8120687873566946775
+    second: Drilo Cruzado_53
+  - first:
+      213: 161970992032135112
+    second: Drilo Cruzado_54
+  - first:
+      213: 4163326872567490582
+    second: Drilo Cruzado_55
+  - first:
+      213: -3492175623467270420
+    second: Drilo Cruzado_56
+  - first:
+      213: -1560904476096854680
+    second: Drilo Cruzado_57
+  - first:
+      213: -608197746276268160
+    second: Drilo Cruzado_58
+  - first:
+      213: 7920312050754070421
+    second: Drilo Cruzado_59
+  - first:
+      213: -7256576830005809477
+    second: Drilo Cruzado_60
+  - first:
+      213: -1865252302340547915
+    second: Drilo Cruzado_61
+  - first:
+      213: -1966680462345347460
+    second: Drilo Cruzado_62
+  - first:
+      213: 7997225216821889024
+    second: Drilo Cruzado_63
+  - first:
+      213: -7062419493605248467
+    second: Drilo Cruzado_64
+  - first:
+      213: -7541404810970037365
+    second: Drilo Cruzado_65
+  - first:
+      213: -8806043174800338292
+    second: Drilo Cruzado_66
+  - first:
+      213: -5707428980458713859
+    second: Drilo Cruzado_67
+  - first:
+      213: -1268044509261050104
+    second: Drilo Cruzado_68
+  - first:
+      213: -1407669890002999890
+    second: Drilo Cruzado_69
+  - first:
+      213: -7302722787291498258
+    second: Drilo Cruzado_70
+  - first:
+      213: -1897694854351915493
+    second: Drilo Cruzado_71
+  - first:
+      213: -2980322543240478917
+    second: Drilo Cruzado_72
+  - first:
+      213: 7932697292972486868
+    second: Drilo Cruzado_73
+  - first:
+      213: 6784159899301106949
+    second: Drilo Cruzado_74
+  - first:
+      213: -2904608989513911295
+    second: Drilo Cruzado_75
+  - first:
+      213: -1159021550338743256
+    second: Drilo Cruzado_76
+  - first:
+      213: -7404055326627342544
+    second: Drilo Cruzado_77
+  - first:
+      213: -5904563910600586585
+    second: Drilo Cruzado_78
+  - first:
+      213: 1232652782290341278
+    second: Drilo Cruzado_79
+  - first:
+      213: -1431623786262604398
+    second: Drilo Cruzado_80
+  - first:
+      213: 7452387681171464598
+    second: Drilo Cruzado_81
+  - first:
+      213: 6828597428600108675
+    second: Drilo Cruzado_82
+  - first:
+      213: -767924894030493082
+    second: Drilo Cruzado_83
+  - first:
+      213: -2791177213455430742
+    second: Drilo Cruzado_84
+  - first:
+      213: 3393529269043502338
+    second: Drilo Cruzado_85
+  - first:
+      213: 757952006973457777
+    second: Drilo Cruzado_86
+  - first:
+      213: 2926922513125861825
+    second: Drilo Cruzado_87
+  - first:
+      213: 5280397056633494470
+    second: Drilo Cruzado_88
+  - first:
+      213: 8286476525267991789
+    second: Drilo Cruzado_89
+  - first:
+      213: -3021746675151439617
+    second: Drilo Cruzado_90
+  - first:
+      213: 4063312818386288893
+    second: Drilo Cruzado_91
+  - first:
+      213: -6952113399580024785
+    second: Drilo Cruzado_92
+  - first:
+      213: 6643426743040212188
+    second: Drilo Cruzado_93
+  - first:
+      213: -414018985404331398
+    second: Drilo Cruzado_94
+  - first:
+      213: -576225122476903308
+    second: Drilo Cruzado_95
+  - first:
+      213: 7267136893242527819
+    second: Drilo Cruzado_96
+  - first:
+      213: 1183337891501553997
+    second: Drilo Cruzado_97
+  - first:
+      213: -4623686752411982062
+    second: Drilo Cruzado_98
+  - first:
+      213: -3671597827471632611
+    second: Drilo Cruzado_99
+  - first:
+      213: 9200841683885039301
+    second: Drilo Cruzado_100
+  - first:
+      213: 6184310672733308226
+    second: Drilo Cruzado_101
+  - first:
+      213: -2845650344539053165
+    second: Drilo Cruzado_102
+  - first:
+      213: -8986738997425988376
+    second: Drilo Cruzado_103
+  - first:
+      213: 8923245883163339856
+    second: Drilo Cruzado_104
+  - first:
+      213: -7163707477395967399
+    second: Drilo Cruzado_105
+  - first:
+      213: -6706790559947869753
+    second: Drilo Cruzado_106
+  - first:
+      213: 8005117568978668280
+    second: Drilo Cruzado_107
+  - first:
+      213: 7624791156842065732
+    second: Drilo Cruzado_108
+  - first:
+      213: 1393997811895741688
+    second: Drilo Cruzado_109
+  - first:
+      213: 3154409696878028026
+    second: Drilo Cruzado_110
+  - first:
+      213: 1165216370048724924
+    second: Drilo Cruzado_111
+  - first:
+      213: 7663654551374843368
+    second: Drilo Cruzado_112
+  - first:
+      213: -6258863912427248688
+    second: Drilo Cruzado_113
+  - first:
+      213: 921916115090717382
+    second: Drilo Cruzado_114
+  - first:
+      213: 2236497198671663914
+    second: Drilo Cruzado_115
+  - first:
+      213: -5051962279132665643
+    second: Drilo Cruzado_116
+  - first:
+      213: 7555711818154659906
+    second: Drilo Cruzado_117
+  - first:
+      213: -2367886957827727348
+    second: Drilo Cruzado_118
+  - first:
+      213: 7709439431696048727
+    second: Drilo Cruzado_119
+  - first:
+      213: 6372330359761988527
+    second: Drilo Cruzado_120
+  - first:
+      213: -2738937244759301791
+    second: Drilo Cruzado_121
+  - first:
+      213: -1691982015109226473
+    second: Drilo Cruzado_122
+  - first:
+      213: 7092481321595655466
+    second: Drilo Cruzado_123
+  - first:
+      213: 7010880188300106531
+    second: Drilo Cruzado_124
+  - first:
+      213: 9089847755861879038
+    second: Drilo Cruzado_125
+  - first:
+      213: -480234625834948609
+    second: Drilo Cruzado_126
+  - first:
+      213: 642875872027057281
+    second: Drilo Cruzado_127
+  - first:
+      213: -2306419136078157281
+    second: Drilo Cruzado_128
+  - first:
+      213: 8110598702672418827
+    second: Drilo Cruzado_129
+  - first:
+      213: -8265691144141463543
+    second: Drilo Cruzado_130
+  - first:
+      213: -1245072309719737192
+    second: Drilo Cruzado_131
+  - first:
+      213: 8880543404281268017
+    second: Drilo Cruzado_132
+  - first:
+      213: 3994864915295947585
+    second: Drilo Cruzado_133
+  - first:
+      213: -394626247860733688
+    second: Drilo Cruzado_134
+  - first:
+      213: 5434740126986382299
+    second: Drilo Cruzado_135
+  - first:
+      213: -4201065841487593543
+    second: Drilo Cruzado_136
+  - first:
+      213: -5962412279469558796
+    second: Drilo Cruzado_Barriga
+  - first:
+      213: -9107033630240113961
+    second: Drilo Cruzado_Derecho
+  - first:
+      213: -4906289114742638899
+    second: Drilo Cruzado_Izq
+  - first:
+      213: -8753353008323268511
+    second: Drilo Cruzado_140
+  - first:
+      213: -3248285881144115282
+    second: Drilo Cruzado_141
+  - first:
+      213: 1898168891227067159
+    second: Drilo Cruzado_142
+  - first:
+      213: -4340590616387178518
+    second: Drilo Cruzado_143
+  - first:
+      213: -165674015692754571
+    second: Drilo Cruzado_144
+  - first:
+      213: 8151505243003661265
+    second: Drilo Cruzado_145
+  - first:
+      213: -6081095980844782745
+    second: Drilo Cruzado_146
+  - first:
+      213: 6457365426676968736
+    second: Drilo Cruzado_147
+  - first:
+      213: 7928056731275328328
+    second: Drilo Cruzado_148
+  - first:
+      213: -2618367763159500225
+    second: Drilo Cruzado_149
+  - first:
+      213: 5869509587576665863
+    second: Drilo Cruzado_150
+  - first:
+      213: 8189165250331469083
+    second: Drilo Cruzado_151
+  - first:
+      213: -2084093596418961472
+    second: Drilo Cruzado_152
+  - first:
+      213: 2752330433255357570
+    second: Drilo Cruzado_153
+  - first:
+      213: 2944764090856881872
+    second: Drilo Cruzado_154
+  - first:
+      213: 4064835608079765589
+    second: Drilo Cruzado_155
+  - first:
+      213: -550361554586622418
+    second: Drilo Cruzado_156
+  - first:
+      213: -6576952868441031063
+    second: Drilo Cruzado_157
+  - first:
+      213: 5324063034995083639
+    second: Drilo Cruzado_4
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 2
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 18, y: 0, z: 474, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Drilo Cruzado_13
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 553
+        width: 122
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff8de680ff1364429536b8cb49bf1fc
+      internalID: -7285106100106166946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drilo Cruzado_14
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 590
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2592df740618c594392a918348cc0062
+      internalID: 8590558304219343610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drilo Cruzado_17
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 565
+        width: 76
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0230112fa8d5645b124739ab4e2d92
+      internalID: 2153078758423643982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drilo Cruzado_23
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 452
+        width: 77
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525474a0afbe5aa47a0ee43911988f33
+      internalID: -316336311005720074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drilo Cruzado_26
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 450
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b7b1c4fa31c0d438349d8852ee9db8
+      internalID: 38364884881701519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drilo Cruzado_Barriga
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 17
+        width: 151
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe6b31be5fff32479ac3c44a19eb952
+      internalID: -5962412279469558796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drilo Cruzado_Derecho
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 21
+        width: 164
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2706b8b5df8c9841876b0f8f9e64f93
+      internalID: -9107033630240113961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drilo Cruzado_Izq
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 0
+        width: 132
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670ae25796091ac41b7b79ea712e5313
+      internalID: -4906289114742638899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drilo Cruzado_141
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 559
+        width: 108
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0669d9ce048ef824f840c95749414f87
+      internalID: -3248285881144115282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drilo Cruzado_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 292
+        height: 671
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54757a3cbec415549900ca1b2bdccafd
+      internalID: 2813110257503163831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drilo Cruzado_1
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 466
+        width: 235
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9557e1d1776d24a91b516bf80bd4de
+      internalID: -7837583756436763966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drilo Cruzado_2
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 416
+        width: 245
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e35924c0a20aa8498954a2f08b66b3d
+      internalID: -2025047660889913651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drilo Cruzado_3
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 132
+        width: 70
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c560532b054ef84a9ddf507440547a8
+      internalID: -3555378135134650951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drilo Cruzado_Zapato
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 21
+        width: 130
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0eb01c085a88a429c6b9cb029a3155
+      internalID: 5324063034995083639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drilo Cruzado_4
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 226
+        width: 124
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24af735330a679746ae0c3fc15dad7ed
+      internalID: 5324063034995083639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drilo Cruzado_5
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 336
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b0160e496a2d342a4c6eb3cf115e1b
+      internalID: 2476837964817304229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drilo Cruzado_6
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 338
+        width: 100
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841a9f9c175ab974a8c77ccc06534e0d
+      internalID: -3627943903597628792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

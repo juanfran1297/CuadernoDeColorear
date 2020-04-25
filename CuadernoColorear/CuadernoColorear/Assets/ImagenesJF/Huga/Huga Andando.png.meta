@@ -1,0 +1,631 @@
+fileFormatVersion: 2
+guid: f5c9c1c972aa1de4f910afe8c1de1151
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2772839481055148228
+    second: Huga Andando_0
+  - first:
+      213: -8510479597547033908
+    second: Huga Andando_1
+  - first:
+      213: -666386355796407508
+    second: Huga Andando_2
+  - first:
+      213: -5936438412814427268
+    second: Huga Andando_3
+  - first:
+      213: 8505424818491433690
+    second: Huga Andando_4
+  - first:
+      213: -4719056585690479655
+    second: Huga Andando_5
+  - first:
+      213: -1329123490525005765
+    second: Huga Andando_6
+  - first:
+      213: 1213013889864756619
+    second: Huga Andando_7
+  - first:
+      213: -7378127119947405643
+    second: Huga Andando_8
+  - first:
+      213: -1277692956430535710
+    second: Huga Andando_9
+  - first:
+      213: -8515210498865978011
+    second: Huga Andando_10
+  - first:
+      213: 3605082864966600625
+    second: Huga Andando_11
+  - first:
+      213: 1562334518561658440
+    second: Huga Andando_12
+  - first:
+      213: 65195456861634556
+    second: Huga Andando_13
+  - first:
+      213: -6617497029803798415
+    second: Huga Andando_14
+  - first:
+      213: 5580227079601033092
+    second: Huga Andando_15
+  - first:
+      213: 6742964149989966047
+    second: Huga Andando_16
+  - first:
+      213: -1105231558384630008
+    second: Huga Andando_17
+  - first:
+      213: 7244254257291182300
+    second: Huga Andando_18
+  - first:
+      213: -5106207168258704641
+    second: Huga Andando_19
+  - first:
+      213: 6933197441128062209
+    second: Huga Andando_20
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Huga Andando_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 402
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b93071086165cb4ebb522d8329ecd55
+      internalID: 2772839481055148228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huga Andando_1
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 270
+        width: 308
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541f8d8d9b89d354f9749a01cc93b89f
+      internalID: -8510479597547033908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huga Andando_2
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 653
+        width: 48
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f6105d7229b3c4f8c79de21657411a
+      internalID: -666386355796407508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huga Andando_3
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 650
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0994c4f9b570b204c9fb73c39ac06dac
+      internalID: -5936438412814427268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huga Andando_4
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 503
+        width: 153
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b959e3a745874499e36969b0cf5ad8
+      internalID: 8505424818491433690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huga Andando_5
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 437
+        width: 96
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115242e0eb35be84698c3ef7109f270f
+      internalID: -4719056585690479655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huga Andando_6
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 642
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db0050dbf618344da6ecea0d1823f26
+      internalID: -1329123490525005765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huga Andando_7
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 348
+        width: 217
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69691661eb9977d488848741e493ce20
+      internalID: 1213013889864756619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huga Andando_8
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 38
+        width: 165
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320fa68a86ad66341872b8e4878255f1
+      internalID: -7378127119947405643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huga Andando_9
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 51
+        width: 71
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3de8aac3875724e84076268cf97b35
+      internalID: -1277692956430535710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huga Andando_10
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 152
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2732179808eedee4895a2b2734573950
+      internalID: -8515210498865978011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huga Andando_11
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 148
+        width: 266
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9aff06ec4e0fe40ab4c4dd7d57a278
+      internalID: 3605082864966600625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huga Andando_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 74
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff329ff110ed87342abcbae1a6f69e38
+      internalID: 1562334518561658440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huga Andando_13
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 17
+        width: 38
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d9e8f3405591040b0c401f81eeeec6
+      internalID: 65195456861634556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huga Andando_14
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 90
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e127454d25db9744796a5f3a976a3f07
+      internalID: -6617497029803798415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huga Andando_15
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 19
+        width: 85
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e284dd205f90e824ba623df17886f37a
+      internalID: 5580227079601033092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huga Andando_16
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 79
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926ebb03ae44664468f0b2a68b1058a7
+      internalID: 6742964149989966047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huga Andando_17
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 27
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ad289c4c6086643a9515639ef57d1b
+      internalID: -1105231558384630008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huga Andando_18
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 20
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56673ce4a56dc249a3a90708d9f638e
+      internalID: 7244254257291182300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huga Andando_19
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 25
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc074bba7e553d146b0f9671f3aa8bb0
+      internalID: -5106207168258704641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huga Andando_20
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 33
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a3dc368f3ddd54aafd94d2244eaeb7
+      internalID: 6933197441128062209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 08ffa8389fad1a04c8e0d97ef279e655
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

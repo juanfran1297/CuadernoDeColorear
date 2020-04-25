@@ -1,0 +1,1159 @@
+fileFormatVersion: 2
+guid: fef9e40f5efddab46bc2871cdca71595
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6628624587067486015
+    second: Peligre Bajo_3
+  - first:
+      213: 293854419678980270
+    second: Peligre Bajo_4
+  - first:
+      213: -1927687815870508806
+    second: Peligre Bajo_5
+  - first:
+      213: -8622009656886987565
+    second: Peligre Bajo_8
+  - first:
+      213: 4043066578852028273
+    second: Peligre Bajo_10
+  - first:
+      213: -1875198158595911854
+    second: Peligre Bajo_11
+  - first:
+      213: 4231285109906721797
+    second: Peligre Bajo_12
+  - first:
+      213: -2683051754255427311
+    second: Peligre Bajo_15
+  - first:
+      213: 4463879820763778596
+    second: Peligre Bajo_16
+  - first:
+      213: -5441681064061090939
+    second: Peligre Bajo_17
+  - first:
+      213: 7990590879918495312
+    second: Peligre Bajo_18
+  - first:
+      213: 4271877755881560533
+    second: Peligre Bajo_19
+  - first:
+      213: -3151484733561287393
+    second: Peligre Bajo_20
+  - first:
+      213: -3745258766685115
+    second: Peligre Bajo_21
+  - first:
+      213: 5401514550666259417
+    second: Peligre Bajo_22
+  - first:
+      213: -8728977578225768155
+    second: Peligre Bajo_23
+  - first:
+      213: -2871903871420748435
+    second: Peligre Bajo_24
+  - first:
+      213: 9052967000365775773
+    second: Peligre Bajo_25
+  - first:
+      213: -2647264299975066248
+    second: Peligre Bajo_26
+  - first:
+      213: 9062423421768040109
+    second: Peligre Bajo_27
+  - first:
+      213: 5349286806418274068
+    second: Peligre Bajo_28
+  - first:
+      213: 3090874451356525846
+    second: Peligre Bajo_29
+  - first:
+      213: 4174780602142437834
+    second: Peligre Bajo_30
+  - first:
+      213: 8933205869639872347
+    second: Peligre Bajo_31
+  - first:
+      213: 6302879298769134621
+    second: Peligre Bajo_32
+  - first:
+      213: 2536250859804363254
+    second: Peligre Bajo_33
+  - first:
+      213: -3203157684571126571
+    second: Peligre Bajo_34
+  - first:
+      213: -2424717566343724584
+    second: Peligre Bajo_35
+  - first:
+      213: -8203566107602626445
+    second: Peligre Bajo_44
+  - first:
+      213: -7107550176839782979
+    second: Peligre Bajo_45
+  - first:
+      213: 6437889549474217395
+    second: Peligre Bajo_48
+  - first:
+      213: -4972252952092250403
+    second: Peligre Bajo_52
+  - first:
+      213: -619294574459775954
+    second: Peligre Bajo_53
+  - first:
+      213: -9216581488973897924
+    second: Peligre Bajo_36
+  - first:
+      213: -6829926523543189880
+    second: Peligre Bajo_0
+  - first:
+      213: -772085810470441009
+    second: Peligre Bajo_1
+  - first:
+      213: -2762553052717310372
+    second: Peligre Bajo_2
+  - first:
+      213: 7204068411775932348
+    second: Peligre Bajo_6
+  - first:
+      213: -1719903506503771960
+    second: Peligre Bajo_7
+  - first:
+      213: -3949517741582910924
+    second: Peligre Bajo_9
+  - first:
+      213: -5005114797551986420
+    second: Peligre Bajo_13
+  - first:
+      213: 8815282360860473242
+    second: Peligre Bajo_14
+  - first:
+      213: -2329237710260245197
+    second: Peligre Bajo_37
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Peligre Bajo_3
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 859
+        width: 58
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb2849e5255bfb458142801da4e26ae
+      internalID: -6628624587067486015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peligre Bajo_4
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 797
+        width: 175
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7adecc1f03d48ab4a8d64b23077fc529
+      internalID: 293854419678980270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peligre Bajo_5
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 770
+        width: 163
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f44297f62307c4dbb548759cd4257c
+      internalID: -1927687815870508806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peligre Bajo_8
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 818
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a568ed7a3840c4a8b4777811751679
+      internalID: -8622009656886987565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peligre Bajo_10
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 56
+        width: 472
+        height: 787
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e57e614fd4bd04f8c4535a2139006d
+      internalID: 4043066578852028273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peligre Bajo_11
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 800
+        width: 57
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c9fd87ff63bbc46ae9f6c021a93a0c
+      internalID: -1875198158595911854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peligre Bajo_12
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 804
+        width: 74
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aee4439363189f45b4b27d184d1fc63
+      internalID: 4231285109906721797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peligre Bajo_15
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 767
+        width: 78
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd27fbd3cf5620240bc760fe0ada25b6
+      internalID: -2683051754255427311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peligre Bajo_16
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 764
+        width: 114
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911be92bd2c2d8544a74da61e804d0c9
+      internalID: 4463879820763778596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peligre Bajo_17
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 626
+        width: 256
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4531f9dbc0b8f0469ed819057ba90a6
+      internalID: -5441681064061090939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peligre Bajo_18
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 652
+        width: 61
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a645e6b93894e439ac4dde16f22d93
+      internalID: 7990590879918495312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peligre Bajo_19
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 674
+        width: 111
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0858e42bb59c7c14cb74860e7fddb79f
+      internalID: 4271877755881560533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peligre Bajo_20
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 669
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07cc3bcf27a0dff4fb933b29941ac9ef
+      internalID: -3151484733561287393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peligre Bajo_21
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 671
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f447e6967ead6984380478eaa461301b
+      internalID: -3745258766685115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peligre Bajo_22
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 674
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972d51de0262f2c4186a8b7a9bdc4291
+      internalID: 5401514550666259417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peligre Bajo_23
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 672
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d93f16aa563b9b498685c5e5c779f80
+      internalID: -8728977578225768155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peligre Bajo_24
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 671
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ab2945fac17ea469e334947ffa8bb9
+      internalID: -2871903871420748435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peligre Bajo_25
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 667
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f301a43b7f760419e1d94a6e724780
+      internalID: 9052967000365775773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peligre Bajo_26
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 520
+        width: 239
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792f45479cdc2204496e1e35600a68e8
+      internalID: -2647264299975066248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peligre Bajo_27
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 612
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccbe8a44e255b84b9894a27ca308760
+      internalID: 9062423421768040109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peligre Bajo_28
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 534
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5022a8150d3cec74cb32f518c3cf61f6
+      internalID: 5349286806418274068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peligre Bajo_29
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 538
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cce2c462f6e304f93f6f1763780262
+      internalID: 3090874451356525846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peligre Bajo_30
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 564
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53f012601a35d74ebc0b3f1b1b50274
+      internalID: 4174780602142437834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peligre Bajo_31
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 556
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f688a47aab92a84ab118c5499c24c01
+      internalID: 8933205869639872347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peligre Bajo_32
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 449
+        width: 69
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cac60e9dbd6fd5419ee1517c4cbdbed
+      internalID: 6302879298769134621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peligre Bajo_33
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 449
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787914f3a83117940bd94d74b3ca66e6
+      internalID: 2536250859804363254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peligre Bajo_34
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 482
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4097e19018d496644aef7d106df4c789
+      internalID: -3203157684571126571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peligre Bajo_35
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 264
+        width: 177
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a023ac331cd634bb89467f0d38d3cb
+      internalID: -2424717566343724584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peligre Bajo_44
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 121
+        width: 65
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595e6bf3c4f3d724fac1190cd5b86e66
+      internalID: -8203566107602626445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peligre Bajo_45
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 119
+        width: 71
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6980a56584907d44a6d388600d801d4
+      internalID: -7107550176839782979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peligre Bajo_48
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 73
+        width: 76
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b8d8b1312500644832b653fc0303e8
+      internalID: 6437889549474217395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peligre Bajo_52
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 77
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b58d82cec07e0459657d89890e51e4
+      internalID: -4972252952092250403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peligre Bajo_53
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 30
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd92136901f3034fb5718cdfe70a106
+      internalID: -619294574459775954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peligre Bajo_36
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 466
+        width: 55
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8831ace1338febe41968f4b32d59d646
+      internalID: -9216581488973897924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peligre Bajo_0
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 863
+        width: 58
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb04b2a100e1a54b9ff3282db8708ff
+      internalID: -6829926523543189880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peligre Bajo_1
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 844
+        width: 58
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad58a97f8e3939f4ea9dbeee9e8b63b7
+      internalID: -772085810470441009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peligre Bajo_2
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 809
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47935172fa1b7f4f819df62adbe0e5a
+      internalID: -2762553052717310372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peligre Bajo_6
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 832
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e2820949563a646a317af8d18b58fe
+      internalID: 7204068411775932348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peligre Bajo_7
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 339
+        width: 26
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c0c440a3de06e4f81bd48216f1f1a3
+      internalID: -1719903506503771960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peligre Bajo_9
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 132
+        width: 72
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e01d9b756e562e49a4955034e6e5828
+      internalID: -3949517741582910924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peligre Bajo_13
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 118
+        width: 52
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5112d333f4e50c446b1ac24bba7a1823
+      internalID: -5005114797551986420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peligre Bajo_14
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 24
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18b564cbd421b44ea920cdb7e668c36
+      internalID: 8815282360860473242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peligre Bajo_37
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 197
+        width: 191
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44cdabbecaab69458ccf914c6611893
+      internalID: -2329237710260245197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 70e6872d7a5fdf844a0aaab49a49cd1e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,583 @@
+fileFormatVersion: 2
+guid: 6906c231873f4c549bfeb79bcbd67d47
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4471713201675524133
+    second: DriloCara_0
+  - first:
+      213: -1064793397245811851
+    second: DriloCara_1
+  - first:
+      213: -7300811975126072748
+    second: DriloCara_2
+  - first:
+      213: -2017389904094147428
+    second: DriloCara_3
+  - first:
+      213: -8282421668373329807
+    second: DriloCara_4
+  - first:
+      213: 6722261336012976270
+    second: DriloCara_5
+  - first:
+      213: 7202086017963915828
+    second: DriloCara_6
+  - first:
+      213: 5397511971554302025
+    second: DriloCara_7
+  - first:
+      213: 3900824707368728676
+    second: DriloCara_8
+  - first:
+      213: 4749429043739078550
+    second: DriloCara_9
+  - first:
+      213: 5639385078457312761
+    second: DriloCara_10
+  - first:
+      213: -6931225395905873790
+    second: DriloCara_11
+  - first:
+      213: -7224281176637834909
+    second: DriloCara_14
+  - first:
+      213: 8706976763754973931
+    second: DriloCara_15
+  - first:
+      213: -5949955865375539417
+    second: DriloCara_16
+  - first:
+      213: 9156868643746775568
+    second: DriloCara_17
+  - first:
+      213: 1998169312537704213
+    second: DriloCara_18
+  - first:
+      213: -273397235436511288
+    second: DriloCara_19
+  - first:
+      213: 6335107733589161674
+    second: DriloCara_12
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DriloCara_0
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 644
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de44c3a888e2884c9414961b9f767aa
+      internalID: 4471713201675524133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloCara_1
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 644
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869789620bba2464b8a306c6d5a6ad1a
+      internalID: -1064793397245811851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloCara_2
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 670
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3309d2b45aa1942ba3ee3f986d1506
+      internalID: -7300811975126072748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloCara_3
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 642
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03634d0f9f4599b41ac60161c8d8a1d9
+      internalID: -2017389904094147428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloCara_4
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 642
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2861c7dc69cb40b498543162d2fa43db
+      internalID: -8282421668373329807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloCara_5
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 572
+        width: 185
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5203644c515b845a10447b75e36b2b
+      internalID: 6722261336012976270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloCara_6
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 548
+        width: 237
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00ae61fb85b65a41b15d28f95e1b509
+      internalID: 7202086017963915828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloCara_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 36
+        width: 514
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266b274308bb40441be1f8c3669358f5
+      internalID: 5397511971554302025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloCara_8
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 642
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4643eaca98a2e08428b4ffad881728b7
+      internalID: 3900824707368728676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloCara_9
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 175
+        width: 414
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ad6ba6ed32f604992d99a9b8a5e3d4
+      internalID: 4749429043739078550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloCara_10
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 523
+        width: 74
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd41e534f3d3ac49a1944abbd863c8e
+      internalID: 5639385078457312761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloCara_11
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 395
+        width: 240
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba3a1b0e3220f74dbef0136ecdd2aab
+      internalID: -6931225395905873790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloCara_14
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 280
+        width: 113
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178e7004a371d4e40b11f594c8002198
+      internalID: -7224281176637834909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloCara_15
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 212
+        width: 298
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e2208aa13a85c4f99f08fc5f507312
+      internalID: 8706976763754973931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloCara_16
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 13
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0580a6447ee8685488897ece0c09dcfc
+      internalID: -5949955865375539417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloCara_17
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 12
+        width: 133
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39c695a0d8b63843b155004e4d7b313
+      internalID: 9156868643746775568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloCara_18
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 35
+        width: 130
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ddedb34f5a8134d8bf37289ea0dc1c
+      internalID: 1998169312537704213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloCara_19
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 30
+        width: 154
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af4c675e1318bd4bb449c95461acbde
+      internalID: -273397235436511288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloCara_12
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 402
+        width: 159
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd0d41edaee7c84eaa67e70158718d6
+      internalID: 6335107733589161674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

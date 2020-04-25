@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: 1c14f8d0ae7a83a42a22f51d81a06a74
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8630459452925499560
+    second: DriloMago_0
+  - first:
+      213: -971591786651407335
+    second: DriloMago_1
+  - first:
+      213: -4601897669789756486
+    second: DriloMago_2
+  - first:
+      213: 5328286552538942977
+    second: DriloMago_3
+  - first:
+      213: 1036708550286829655
+    second: DriloMago_4
+  - first:
+      213: 876529949732392907
+    second: DriloMago_5
+  - first:
+      213: -7797300214231245000
+    second: DriloMago_6
+  - first:
+      213: 6382182769640411677
+    second: DriloMago_7
+  - first:
+      213: 5742603949355012761
+    second: DriloMago_8
+  - first:
+      213: 7822725847125831464
+    second: DriloMago_9
+  - first:
+      213: 2512375833944730808
+    second: DriloMago_10
+  - first:
+      213: 4268446032240773098
+    second: DriloMago_11
+  - first:
+      213: -3318781268465745085
+    second: DriloMago_12
+  - first:
+      213: -3091336036718875317
+    second: DriloMago_13
+  - first:
+      213: -5634934686940596423
+    second: DriloMago_14
+  - first:
+      213: -3698837719435832095
+    second: DriloMago_15
+  - first:
+      213: 1688889142247755265
+    second: DriloMago_16
+  - first:
+      213: -5117430868376906673
+    second: DriloMago_17
+  - first:
+      213: -2836048160789667036
+    second: DriloMago_18
+  - first:
+      213: -7632843926649395406
+    second: DriloMago_19
+  - first:
+      213: 1934784191080623176
+    second: DriloMago_20
+  - first:
+      213: -6726555967742344508
+    second: DriloMago_21
+  - first:
+      213: -6600613127755719466
+    second: DriloMago_22
+  - first:
+      213: -2143903083193330733
+    second: DriloMago_23
+  - first:
+      213: -591376325099210930
+    second: DriloMago_24
+  - first:
+      213: 5862833792672347415
+    second: DriloMago_25
+  - first:
+      213: 970887751603197666
+    second: DriloMago_26
+  - first:
+      213: 6336261546328991606
+    second: DriloMago_27
+  - first:
+      213: -7632081433147768015
+    second: DriloMago_28
+  - first:
+      213: 7864245121112654395
+    second: DriloMago_29
+  - first:
+      213: 8887111991131091751
+    second: DriloMago_30
+  - first:
+      213: -6494373983069690775
+    second: DriloMago_31
+  - first:
+      213: 8224440343478580032
+    second: DriloMago_32
+  - first:
+      213: 2821376485883802993
+    second: DriloMago_33
+  - first:
+      213: 7058371425769191255
+    second: DriloMago_34
+  - first:
+      213: 8747998364619468779
+    second: DriloMago_35
+  - first:
+      213: 3354952247047095832
+    second: DriloMago_36
+  - first:
+      213: -5249494124244302256
+    second: DriloMago_37
+  - first:
+      213: 35587929423307579
+    second: DriloMago_38
+  - first:
+      213: -4125082497673998997
+    second: DriloMago_39
+  - first:
+      213: -1539388103015028801
+    second: DriloMago_40
+  - first:
+      213: 3406642605557255439
+    second: DriloMago_41
+  - first:
+      213: -500197041779151128
+    second: DriloMago_42
+  - first:
+      213: 3254445021424954668
+    second: DriloMago_43
+  - first:
+      213: -3340568758223277340
+    second: DriloMago_44
+  - first:
+      213: 4421118626044273941
+    second: DriloMago_45
+  - first:
+      213: 9004943865902728457
+    second: DriloMago_46
+  - first:
+      213: -2755637447315687291
+    second: DriloMago_47
+  - first:
+      213: -371923988434415927
+    second: DriloMago_48
+  - first:
+      213: 3968419456908449602
+    second: DriloMago_53
+  - first:
+      213: -852849641004531225
+    second: DriloMago_56
+  - first:
+      213: -293971155725118012
+    second: DriloMago_57
+  - first:
+      213: 6300660796557397861
+    second: DriloMago_68
+  - first:
+      213: 4073159686321820111
+    second: DriloMago_76
+  - first:
+      213: 7423189708335665528
+    second: DriloMago_49
+  - first:
+      213: -597465930946853094
+    second: DriloMago_50
+  - first:
+      213: -1059714575749649408
+    second: DriloMago_54
+  - first:
+      213: -1110363953809270012
+    second: DriloMago_65
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DriloMago_3
+      rect:
+        serializedVersion: 2
+        x: 2875
+        y: 1532
+        width: 86
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df4499222b8adb499dc4fc2159a125f
+      internalID: 5328286552538942977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloMago_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 794
+        height: 1432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ba84d547584794c9065f0ece90df1d
+      internalID: 1036708550286829655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloMago_6
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 1327
+        width: 110
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8679c45be7b84be4e8480102a1cce267
+      internalID: -7797300214231245000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloMago_9
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 895
+        width: 449
+        height: 606
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679509367a29cef47888fec4018fb6bf
+      internalID: 7822725847125831464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloMago_10
+      rect:
+        serializedVersion: 2
+        x: 2906
+        y: 1450
+        width: 62
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e523cf0e4a568b44977a17b8edfac64
+      internalID: 2512375833944730808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloMago_12
+      rect:
+        serializedVersion: 2
+        x: 2554
+        y: 1183
+        width: 173
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134f151f06504c949b482a95e3b6e143
+      internalID: -3318781268465745085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloMago_15
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 864
+        width: 291
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d5af2f84f94014baa72fde7680333d
+      internalID: -3698837719435832095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloMago_16
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 1046
+        width: 175
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c285a67d3a5e3c4dbdaaa7c0f810751
+      internalID: 1688889142247755265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloMago_18
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 1047
+        width: 78
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a28fa7e0a8f5054c8b2aa346c9e75f7
+      internalID: -2836048160789667036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloMago_19
+      rect:
+        serializedVersion: 2
+        x: 2663
+        y: 985
+        width: 337
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e850c1a63bdf2438e2f49c55284dd5
+      internalID: -7632843926649395406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloMago_21
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 918
+        width: 156
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c61e9043cc1c9f4c8c8e4ef2c7381c8
+      internalID: -6726555967742344508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloMago_22
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 955
+        width: 106
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69900672d4497e944bbde0effdae8095
+      internalID: -6600613127755719466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloMago_29
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 836
+        width: 73
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e26180cc45cbc4eba084daad653de4
+      internalID: 7864245121112654395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloMago_33
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 164
+        width: 249
+        height: 578
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b99d8f12daa7942a61e5561a8a3a39
+      internalID: 2821376485883802993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloMago_34
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 215
+        width: 157
+        height: 527
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e4ce318f1792c4eb57a160088d92f7
+      internalID: 7058371425769191255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloMago_35
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 645
+        width: 76
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb55e5cb1e5f8e54089079825107f472
+      internalID: 8747998364619468779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloMago_40
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 546
+        width: 42
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb7e4a3993b533419e3fa1ccf8a18d7
+      internalID: -1539388103015028801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloMago_45
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 373
+        width: 107
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43c9589bbcf05949b496602459394cc
+      internalID: 4421118626044273941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloMago_54
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 393
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d3b7cb3646b654bbb0d4366de3ecae
+      internalID: -1059714575749649408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloMago_65
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 40
+        width: 512
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c0cf1c66400494c801bbd2cc128ccb
+      internalID: -1110363953809270012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloMago_1
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1200
+        width: 381
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a920ff3616dd40f4189cf1f25da22b8c
+      internalID: -971591786651407335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloMago_0
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 435
+        width: 102
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ce7159293441f4b9e2baccd87046ce
+      internalID: 8630459452925499560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloMago_5
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 708
+        width: 93
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fe5a3481e265947be6c23bc9b6edc9
+      internalID: 876529949732392907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloMago_17
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 837
+        width: 88
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26ed36743b5e7f428d9e599d5e8fadb
+      internalID: -5117430868376906673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloMago_20
+      rect:
+        serializedVersion: 2
+        x: 2755
+        y: 864
+        width: 245
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a39fa9fac812b74ca31a57f6613db47
+      internalID: 1934784191080623176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloMago_2
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 0
+        width: 386
+        height: 531
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1051610d2cf62b743b2b2a9efc5aee8f
+      internalID: -4601897669789756486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloMago_7
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 14
+        width: 406
+        height: 445
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c45954da8974d489ebab3d8c690f0a
+      internalID: 6382182769640411677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloMago_13
+      rect:
+        serializedVersion: 2
+        x: 2857
+        y: 582
+        width: 120
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7aee67a68f272248a6756ad5204e130
+      internalID: -3091336036718875317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriloMago_8
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1239
+        width: 187
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817728e1584f2864d8c13eed300d43f9
+      internalID: 5742603949355012761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
